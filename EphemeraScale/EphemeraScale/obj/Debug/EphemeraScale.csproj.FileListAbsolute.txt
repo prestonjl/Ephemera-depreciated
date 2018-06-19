@@ -1,0 +1,13 @@
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\bin\Debug\EphemeraScale.exe.config
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\bin\Debug\EphemeraScale.exe
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\bin\Debug\EphemeraScale.pdb
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\EphemeraScale.csprojResolveAssemblyReference.cache
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\MainWindow.baml
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\MainWindow.g.cs
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\App.g.cs
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\EphemeraScale_MarkupCompile.cache
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\EphemeraScale.g.resources
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\EphemeraScale.Properties.Resources.resources
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\EphemeraScale.csproj.GenerateResource.Cache
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\EphemeraScale.exe
+C:\Users\Preston\Documents\ephemera\EphemeraScale\EphemeraScale\obj\Debug\EphemeraScale.pdb
